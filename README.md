@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://imgur.com/N7ZPi3M)
+![alt text](https://i.imgur.com/N7ZPi3M.jpg)
 <!--
 **alirezafazeli8/alirezafazeli8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
