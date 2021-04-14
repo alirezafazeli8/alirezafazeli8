@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://i.pinimg.com/600x315/f5/41/c5/f541c5b93b2324a4647758f4f44b5976.jpg)
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWW_M-lZmWnXKWtjFuww1WEwdkDq5NsvoDyHEcIs7cqrMWNi9Zr9JrBw4SEbJ8ZzlDO4A&usqp=CAU)
 
 <div>
   <h2>⌨ Languages & Tools</h2>
