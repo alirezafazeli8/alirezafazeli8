@@ -1,5 +1,5 @@
 ### Hi there 👋
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWW_M-lZmWnXKWtjFuww1WEwdkDq5NsvoDyHEcIs7cqrMWNi9Zr9JrBw4SEbJ8ZzlDO4A&usqp=CAU)
+![alt text](https://alirezafazeli.s3.ir-thr-at1.arvanstorage.com/1451626.jpg)
 
 <div>
   <h2>⌨ Languages & Tools</h2>
