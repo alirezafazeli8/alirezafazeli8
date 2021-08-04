@@ -1,5 +1,6 @@
 ### Hi there 👋
-![alt text](https://alirezafazeli.s3.ir-thr-at1.arvanstorage.com/file-20200107-123395-uque29.jpg)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?alirezafazeli8=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div>
   <h2>⌨ Languages & Tools</h2>
