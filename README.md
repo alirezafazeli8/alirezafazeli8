@@ -2,7 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezafazeli8&layout=compact)](https://github.com/alirezafazeli8/github-readme-stats)
-
+<br>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?alirezafazeli8=willianrod)](https://github.com/alirezafazeli8/github-readme-stats)
 
 
 
