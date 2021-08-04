@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?alirezafazeli8=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alirezafazeli8=anuraghazra&count_private=true)
+
 
 
 <div>
