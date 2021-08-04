@@ -1,6 +1,9 @@
 ### Hi there 👋
- <img src="https://tenor.com/view/peppo-dance-programming-gif-20353294">
+
+ <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif">
+ 
 <br>
+
 ![alirezafazeli GitHub stats](https://github-readme-stats.vercel.app/api?username=alirezafazeli8&show_icons=true&theme=onedark)
 <hr>
 <div>
