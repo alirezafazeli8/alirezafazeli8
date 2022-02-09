@@ -1,6 +1,6 @@
 ### Hello Geek Buddy 👻
 
- <img src="https://media.tenor.com/images/03726cf974172491d5a348d0ac25125b/tenor.gif">
+ <img src="https://i.pinimg.com/564x/ec/a5/1e/eca51eb5c5115de96bd5f62e00e73ed8.jpg">
  
 <br>
 
