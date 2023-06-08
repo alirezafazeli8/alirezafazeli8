@@ -2,6 +2,7 @@
 
 ------------
 
+<img src="https://www.ancient-origins.net/sites/default/files/field/image/Cyrus.jpg" />
 
 ###### Success always calls for greater generosity - though most people, lost in the darkness of their own egos, treat it as an occasion for greater greed. Collecting boot is not an end itself, but only a means for building an empire. Riches would be of little use to us now - except as a means of winning new friends.
 Cyrus The Great
