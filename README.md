@@ -1,4 +1,4 @@
-# Welocme to Alireza's world 🦦.
+# Welcome to Alireza world 🦦.
 
 <img src="https://www.ancient-origins.net/sites/default/files/field/image/Cyrus.jpg" />
 
